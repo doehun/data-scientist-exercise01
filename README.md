@@ -1,6 +1,8 @@
 ## These are my solutions to the RTI Data Science Challenge 
 There are two Jupyter Notebooks.
+
 Part 1 is SQL and Exploratory Analysis
+
 Part 2 is Model Building for Prediction
 
 The challenge is below: 
