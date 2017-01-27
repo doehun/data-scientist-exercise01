@@ -1,4 +1,4 @@
-# These are my solutions to the RTI Data Science Challenge 
+## These are my solutions to the RTI Data Science Challenge 
 The challenge is below: 
 
 ----
