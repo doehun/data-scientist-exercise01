@@ -1,3 +1,8 @@
+# These are my solutions to the RTI Data Science Challenge 
+The challenge is below: 
+
+----
+
 ## RTI CDS Analytics Exercise 01
 
 Welcome to Exercise 01. This exercise provides a small SQLite database with some data derived from the 1996 US Census and a few analytic questions related to working with SQL and open source analysis packages.
